@@ -1,0 +1,25 @@
+{
+  "name": "catliondb",
+  "version": "0.0.5",
+  "description": "A simple and intuitive database using JSON files.",
+  "main": "CatlionDB.js",
+  "scripts": {
+    "test": "testcatliondb"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "keywords": [
+    "json",
+    "db",
+    "database",
+    "baloocute"
+  ],
+  "dependencies": {
+    "fs": "latest",
+	"colors": "latest"
+  },
+  "author": "Alexa",
+  "license": "(MIT OR Apache-2.0)"
+}
