@@ -1,14 +1,14 @@
 {
   "name": "catliondb",
-  "version": "0.0.5",
-  "description": "A simple and intuitive database using JSON files.",
+  "version": "0.0.6",
+  "description": "A simple and intuitive database engine using JSON files.",
   "main": "CatlionDB.js",
   "scripts": {
     "test": "testcatliondb"
   },
   "repository": {
     "type": "git",
-    "url": "none"
+    "url": "https://github.com/KillerCatLion/CatlionDB"
   },
   "keywords": [
     "json",

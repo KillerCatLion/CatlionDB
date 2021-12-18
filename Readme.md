@@ -2,6 +2,7 @@
 ## _Written by CatLion (Alexa)_
 
 CatlionDB is a customizable JSON database engine made to be easy to use.
+<br>
 **CatlionDB Features at a glance:**
 - Internel DB option
 - Ability to destroy databases
@@ -49,4 +50,5 @@ DB.write().then(Result => {
 - `file` [**<String>**](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String) *Path where the database JSON file is located or will be created.*
 - `options` [**<Boolean>**](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON) *This option is `INTERNAL_DB`. Weather to create the database internally or not Setting this value will set the value the same way it would be set when you first ilitalize the database. You will need to unset it to turn it off.*
 
-
+##Please report any bugs on github. Thanks.
+###Suggestions are also apritiated.
